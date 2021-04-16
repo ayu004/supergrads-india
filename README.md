@@ -28,6 +28,7 @@
 * Node.JS and npm - to run react based frontend service of app. You can download from [here](https://nodejs.org/en/download/)
 * MySQL - to be used as database for application. You can download from [here](https://dev.mysql.com/downloads/)
 
+
 #### You don't need to run this app locally to deploy it on to GCP
 
 Download the above mentioned prerequisites, execute files(if required) and set the environment variables(like $JAVA_HOME for java). Installation of all these tools is well documented and easily available.
